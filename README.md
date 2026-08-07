@@ -244,7 +244,7 @@
                 title: "TOPIK & Business Korean Expert",
                 bio: "안녕하세요! 0년 경력의 한국어 강사입니다. 초급부터 비즈니스 한국어까지 친절하게 가르쳐 드립니다.",
                 tags: ["TOPIK", "Business", "Beginner"],
-                image: "[https://images.unsplash.com/photo-1534528741775-53994a69daeb?](https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-1/488674865_9281293785252755_4849138797915075329_n.jpg?stp=dst-jpg_tt6&cstp=mx960x960&ctp=s200x200&_nc_cat=100&ccb=1-7&_nc_sid=1d2534&_nc_ohc=W_7b2IhEtFQQ7kNvwHvGbQL&_nc_oc=AdrcyXuOIrcfhcOCcJL6eHRO7ckD5KQDTSYU_cc8EZrq3PJWru8-TUvUB8L5Qc4CB5w&_nc_zt=24&_nc_ht=scontent-ssn1-1.xx&_nc_gid=soH7BLsxl8uWUeUT7zpVJg&_nc_ss=7b2a8&oh=00_AQHFppTjdcwzO1sOc60VG3yYPO7DeOc3VuPxiEW15dOhRA&oe=6A7BBEBC?w=500&auto=format&fit=crop&q=60",
+                image: "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-1/488674865_9281293785252755_4849138797915075329_n.jpg?stp=dst-jpg_tt6&cstp=mx960x960&ctp=s200x200&_nc_cat=100&ccb=1-7&_nc_sid=1d2534&_nc_ohc=W_7b2IhEtFQQ7kNvwHvGbQL&_nc_oc=AdrcyXuOIrcfhcOCcJL6eHRO7ckD5KQDTSYU_cc8EZrq3PJWru8-TUvUB8L5Qc4CB5w&_nc_zt=24&_nc_ht=scontent-ssn1-1.xx&_nc_gid=soH7BLsxl8uWUeUT7zpVJg&_nc_ss=7b2a8&oh=00_AQHFppTjdcwzO1sOc60VG3yYPO7DeOc3VuPxiEW15dOhRA&oe=6A7BBEBC w=500&auto=format&fit=crop&q=60",
                 videoUrl: "https://www.youtube.com/embed/dQw4w9WgXcQ" // 유튜브 Embed 링크 형식
             },
             {
